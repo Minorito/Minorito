@@ -2,3 +2,5 @@
 
 - 🔭 Hoje atuo como Assistente de Business Intelligence na Unimed Guarapuava 
 - 🌱 Tenho me dedicado ao estudo nas áreas de Data Science e Machine Learning 
+
+POWER BI | LOOKER STUDIO | QLIK SENSE E VIEW | SQL | PYTHON 
